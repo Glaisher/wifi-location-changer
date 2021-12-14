@@ -3,7 +3,7 @@
 * Automatically changes the Mac OSX network location when Wi-Fi connection SSID changes
 * Allows having different IP settings depending on the Wi-Fi SSID
 
-**Note:** Mountain Lion compatible
+**Note:** Big Sur compatible
 
 ## Configuration
 There are two areas that need to be modified in the locationchanger script, Locations and SSIDs. Both of which are case sensitive. 
